@@ -10,7 +10,7 @@ export const CONFIG = {
 };
 
 // TODO: your public handle (shown on the recap card + footer)
-export const HANDLE = "@yourhandle";
+export const HANDLE = "@muttcliffe";
 
 // TODO: your live domain, no https:// (set after the first Vercel deploy)
-export const LIVE_URL = "your-project.vercel.app";
+export const LIVE_URL = "muttcliffecflpicks-j52x.vercel.app";
