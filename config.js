@@ -1,16 +1,13 @@
-// ── Edit HANDLE and LIVE_URL, then push. Sheet ID is already wired in. ────────
+// ── Edit HANDLE if you want a different label. Sheet ID + URL are set. ────────
 
 export const CONFIG = {
-  // Your published sheet:
   spreadsheetId: "1F9eAwMcgjVUO0luTzKNAgJmDdHJHT7Rba-8-ACuIEvo",
-
-  // Tab names — must match the sheet exactly (case-sensitive, no trailing spaces):
   betsTab: "Bets",
   gamesTab: "Games",
 };
 
-// TODO: your public handle (shown on the recap card + footer)
+// Shown on the recap card + footer — change to your real public handle
 export const HANDLE = "@muttcliffe";
 
-// TODO: your live domain, no https:// (set after the first Vercel deploy)
+// Your live domain, no https:// (the code adds it)
 export const LIVE_URL = "muttcliffecflpicks-j52x.vercel.app";
